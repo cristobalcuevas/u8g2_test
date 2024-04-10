@@ -2,4 +2,4 @@
 .vscode
 lib
 test
-.heltec_wireless_stick
+*.heltec_wireless_stick
